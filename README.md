@@ -1,2 +1,2 @@
 # Hello-World-SA22
-My first github repo for Software Architecture Project
+My first group project for software Architecture
